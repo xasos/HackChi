@@ -1,4 +1,9 @@
 HackChi
 =======
-<img src="http://i.imgur.com/eg6gbjo.png" alt="HackChi Icon" align="center"><br>
-Website for HackChi hackathon taking place in Chicago, IL.
+HackChi website
+
+## What is HackChi?
+HackChis is a 36-hour long collegiate hackathon taking place in November 2014 in Chicago, IL.
+
+## License
+[MIT License](LICENSE)
